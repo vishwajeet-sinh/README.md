@@ -1,26 +1,22 @@
 ### Hi there, I'm [Vishwajeetsinh Varnamiya](https://vishwajeet-sinh.github.io) 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
-
+I completed my Master in Electrical Engineering from [San Jose State University](https://vishwajeetsinh.varnamiya@sjsu.edu), California, USA.
 **My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- Digital Design
+- Design Verification
+- Physical Design
 
  **I am open to**:
 
 - any collaboration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- CPU or GPU projects(development or research),
+- research on low power and
 
 ## Skills:
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
